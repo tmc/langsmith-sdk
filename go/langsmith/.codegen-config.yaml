@@ -1,0 +1,5 @@
+package: langsmith
+generate:
+  models: true
+  client: true
+output: langsmith_client.gen.go
